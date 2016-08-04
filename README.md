@@ -3,7 +3,7 @@ Runs basic statistics on inputted item.
 Made to keep track of tweaking with Pandas.
 
 What Needs to Be Done:
-'''
+
 Put an upper function on item numbers 
 error handling when item doesn't exist.
 Move prints to some sort of function - the variables are sent to a class.
@@ -19,4 +19,3 @@ What is the error to a cycle count - average amount pulled (find average on bimo
 Clean Up Plots
 Primitive Frontend.
 Scatterplot of amount of sales in a month by cyclecounts. Maybe R2. Maybe only months where cycle counts occur to remove noise.
-'''
